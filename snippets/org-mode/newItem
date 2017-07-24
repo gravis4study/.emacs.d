@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: newItem
+# key: new
+# --
++ [ ] 

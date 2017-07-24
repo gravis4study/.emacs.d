@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: englisch
+# key: engl
+# --
+(engl. $1) 

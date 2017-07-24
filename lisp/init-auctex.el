@@ -44,5 +44,6 @@
 (setq reftex-toc-split-windows-horizontally t)
 ;; adjust the fraction
 (setq reftex-toc-split-windows-fraction 0.3)
+(setq-default TeX-master nil)
 
 (provide 'init-auctex)

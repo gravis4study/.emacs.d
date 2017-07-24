@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: guillemet
+# key: gile
+# --
+《$1》

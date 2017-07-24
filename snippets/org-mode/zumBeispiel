@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: zumBeispiel
+# key: zb
+# --
+ (z.B. $1)

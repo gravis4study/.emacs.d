@@ -1,0 +1,45 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("baen"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/语言/英语单词/第二阶段.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 10))
+("cpp"
+ (filename . "~/Emacs/LifeWithEmacs/Study/CPPPrimer练习题/Code/main.cpp")
+ (front-context-string)
+ (rear-context-string . "main(void)\n{\n\n  ")
+ (position . 125))
+("02_grundlagen.tex"
+ (filename . "~/HSH/BeProjekt/doku/02_grundlagen.tex")
+ (front-context-string . "\n\nDie Analyse vo")
+ (rear-context-string . "grundlagen:olap}")
+ (position . 7519))
+("linux"
+ (filename . "~/Emacs/LifeWithEmacs/Study/Linux命令行.org")
+ (front-context-string)
+ (rear-context-string . "可以更好的处理单引号和双引号.\n")
+ (position . 15639))
+("2018"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org")
+ (front-context-string . "* 第十周\n* 2018年03月")
+ (rear-context-string)
+ (position . 1))
+("plan"
+ (filename . "~/Emacs/LifeWithEmacs/Plan/Plan.org")
+ (front-context-string . "\n* 工作中\n** Latex学")
+ (rear-context-string . " 高中英语教材重点单词收集完成\n")
+ (position . 97))
+("en"
+ (filename . "~/Emacs/LifeWithEmacs/Language/高中英语单词.org")
+ (front-context-string)
+ (rear-context-string . ". 扩大的, 广阔的, 大量的\n")
+ (position . 49390))
+("de"
+ (filename . "~/Emacs/LifeWithEmacs/Language/Deutsch.org")
+ (front-context-string)
+ (rear-context-string . "月13日 星期二\n+ [ ] \n")
+ (position . 15872))
+)

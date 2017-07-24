@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: typeid.name
+# key: tyid
+# --
+std::cout << typeid($1).name() << "\n";

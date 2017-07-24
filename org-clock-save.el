@@ -1,0 +1,2 @@
+;; org-clock-save.el - WKONG.fritz.box at <2018-03-13 Tue 23:07>
+(setq org-clock-stored-history '(("/Users/xuexi/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org" . 9684) ("/Users/xuexi/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org" . 10204) ("/Users/xuexi/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org" . 10778) ("/Users/xuexi/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org" . 10724) ("/Users/xuexi/Library/Mobile Documents/com~apple~CloudDocs/Daily/2018年03月.org" . 10589)))

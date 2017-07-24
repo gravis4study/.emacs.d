@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: makefile
+# key: makefile
+# --
+CXX = g++
+
+OBJS = 
+
+TARGET = 
+
+CFLAGS =
+
+$(TARGET):	$(OBJS)
+	$(CXX) -o $@ $^
+
+clean:
+	rm -r $(OBJS) $(TARGET)

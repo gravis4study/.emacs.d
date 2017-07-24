@@ -1,3 +1,10 @@
+
+;; Added by Package.el.  This must come before configurations of
+;; installed packages.  Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.
+(package-initialize)
+
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 
 (defconst *spell-check-support-enabled* nil) ;; Enable with t if you prefer
@@ -145,4 +152,18 @@
 ;;                       (sanityinc/time-subtract-millis after-init-time before-init-time))))
 
 
+
 (provide 'init)
+
+;; ;;----------------------------------------------------------------------------
+;; ;; My Settings
+;; ;;---------------------------------------------------------------------------
+
+(global-set-key "\C-cd" 'kill-whole-line)
+
+ (add-to-list 'load-path "which-folder-ace-jump-mode-file-in/")
+    (require 'ace-jump-mode)
+(define-key global-map (kbd "C-c C-SPC") 'ace-jump-mode)
+
+ (setq initial-frame-alist
+          '((top . 1) (left . 1) (width . 90) (height . 50)))
