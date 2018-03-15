@@ -2,11 +2,26 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("baen"
- (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/语言/英语单词/第二阶段.org")
+(("alias"
+ (filename . "~/.emacs.d/eshell/alias")
+ (front-context-string)
+ (rear-context-string . "WithEmacs/Study/")
+ (position . 408))
+("bapa"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文/笔记/笔记_Computer_Assisted_Assessment.org")
  (front-context-string)
  (rear-context-string)
- (position . 10))
+ (position . 1520))
+("bsn2_笔记"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/SS18🏫/BSN2/bsn2_笔记.org")
+ (front-context-string)
+ (rear-context-string . "B liest\n2. \n3. \n")
+ (position . 441))
+("baen"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/语言/英语单词/第二阶段.org")
+ (front-context-string)
+ (rear-context-string . " \n+ [ ] \n+ [ ] \n")
+ (position . 1245))
 ("cpp"
  (filename . "~/Emacs/LifeWithEmacs/Study/CPPPrimer练习题/Code/main.cpp")
  (front-context-string)
@@ -29,9 +44,9 @@
  (position . 1))
 ("plan"
  (filename . "~/Emacs/LifeWithEmacs/Plan/Plan.org")
- (front-context-string . "\n* 工作中\n** Latex学")
- (rear-context-string . " 高中英语教材重点单词收集完成\n")
- (position . 97))
+ (front-context-string . "\n* 读书\n** 《爱弥儿》[5")
+ (rear-context-string . "#C] 现代操作系统 [6%]\n")
+ (position . 278))
 ("en"
  (filename . "~/Emacs/LifeWithEmacs/Language/高中英语单词.org")
  (front-context-string)
