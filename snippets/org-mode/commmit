@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: commmit
+# key: co
+# --
+/*$1*/

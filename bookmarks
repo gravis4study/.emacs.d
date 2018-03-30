@@ -2,36 +2,106 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("alias"
- (filename . "~/.emacs.d/eshell/alias")
+(("论文中文大纲"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文成品(中文).org")
  (front-context-string)
- (rear-context-string . "WithEmacs/Study/")
- (position . 408))
-("bapa"
- (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文/笔记/笔记_Computer_Assisted_Assessment.org")
+ (rear-context-string . "Zussamenfassung\n")
+ (position . 1256))
+("SQL语句"
+ (filename . "~/Emacs/LifeWithEmacs/Study/PostgreSQL即学即用/SQL语句.org")
  (front-context-string)
  (rear-context-string)
- (position . 1520))
+ (position . 1))
+("论文可用的德语de"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文良句(英德).org")
+ (front-context-string)
+ (rear-context-string . "g\n* 收集的德语(论文可用)\n")
+ (position . 4087))
+("搞定2"
+ (filename . "~/Emacs/LifeWithEmacs/Read/效率/搞定2.org")
+ (front-context-string . "\n\n** 12. 担忧无意\n省时")
+ (rear-context-string . "们却不知如何打发一个下雨的星期天")
+ (position . 2058))
+("SE3笔记"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/SS18🏫/SE3/SE3_笔记.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("ba笔记"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文/笔记/BA笔记.org")
+ (front-context-string . "* Tools\n** SQL T")
+ (rear-context-string)
+ (position . 1))
+("现代操作系统.org"
+ (filename . "~/Emacs/LifeWithEmacs/Study/现代操作系统/现代操作系统.org")
+ (front-context-string)
+ (rear-context-string)
+ (position . 16111))
+("项目归档.org"
+ (filename . "~/Emacs/LifeWithEmacs/Plan/项目归档.org")
+ (front-context-string)
+ (rear-context-string . "n 12:21]\n:END:\n\n")
+ (position . 15138))
+("sport"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/Daily/运动计划.org")
+ (front-context-string . "* 2018年03月24日 星期")
+ (rear-context-string)
+ (position . 3))
+("论文良句(英德).org"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/论文良句(英德).org")
+ (front-context-string)
+ (rear-context-string . "Zussamenfassung\n")
+ (position . 1726))
+("baoutline"
+ (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/BA论文大纲.org")
+ (front-context-string)
+ (rear-context-string . "ification.pdf]]\n")
+ (position . 4453))
+("postgre"
+ (filename . "~/Emacs/LifeWithEmacs/Study/PostgreSQL即学即用/PostgreSQL即学即用.org")
+ (front-context-string)
+ (rear-context-string . " 命令得到对象的详细信息\n\n\n\n")
+ (position . 6809))
+("yas"
+ (filename . "~/Emacs/LifeWithEmacs/Documents/YASnippet/Yasnippet快捷键表.org")
+ (front-context-string . "\n+ C-S-f9 :: 关闭f")
+ (rear-context-string . " using namesapce")
+ (position . 46))
+("os"
+ (filename . "~/Emacs/LifeWithEmacs/Study/现代操作系统/现代操作系统.org")
+ (front-context-string)
+ (rear-context-string . "* 3.4 页面置换算法\n** ")
+ (position . 11840))
+("custom.el"
+ (filename . "~/.emacs.d/custom.el")
+ (front-context-string)
+ (rear-context-string . "ch-dictionary)\n\n")
+ (position . 2501))
+("main.cpp"
+ (filename . "~/Emacs/LifeWithEmacs/Study/C++Primer练习题/Code/main.cpp")
+ (front-context-string . "\n  return 0;\n}\n\n")
+ (rear-context-string . "t main(void)\n{\n ")
+ (position . 145))
+("alias"
+ (filename . "~/.emacs.d/eshell/alias")
+ (front-context-string . " cd ~/Emacs/Life")
+ (rear-context-string . "s/Study/\nalias l")
+ (position . 480))
 ("bsn2_笔记"
  (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/SS18🏫/BSN2/bsn2_笔记.org")
  (front-context-string)
- (rear-context-string . "B liest\n2. \n3. \n")
- (position . 441))
+ (rear-context-string . "1 im Fehlerfall\n")
+ (position . 22590))
 ("baen"
  (filename . "~/Library/Mobile Documents/com~apple~CloudDocs/BachelorArbeit/语言/英语单词/第二阶段.org")
  (front-context-string)
- (rear-context-string . " \n+ [ ] \n+ [ ] \n")
- (position . 1245))
-("cpp"
- (filename . "~/Emacs/LifeWithEmacs/Study/CPPPrimer练习题/Code/main.cpp")
- (front-context-string)
- (rear-context-string . "main(void)\n{\n\n  ")
- (position . 125))
+ (rear-context-string . "er\n+ [ ] Impact\n")
+ (position . 2187))
 ("02_grundlagen.tex"
  (filename . "~/HSH/BeProjekt/doku/02_grundlagen.tex")
- (front-context-string . "\n\nDie Analyse vo")
- (rear-context-string . "grundlagen:olap}")
- (position . 7519))
+ (front-context-string . "\nDarüber hinaus ")
+ (rear-context-string . "ction{Drilling}\n")
+ (position . 9901))
 ("linux"
  (filename . "~/Emacs/LifeWithEmacs/Study/Linux命令行.org")
  (front-context-string)
@@ -48,13 +118,13 @@
  (rear-context-string . "#C] 现代操作系统 [6%]\n")
  (position . 278))
 ("en"
- (filename . "~/Emacs/LifeWithEmacs/Language/高中英语单词.org")
+ (filename . "~/Emacs/LifeWithEmacs/Language/English.org")
  (front-context-string)
- (rear-context-string . ". 扩大的, 广阔的, 大量的\n")
- (position . 49390))
+ (rear-context-string . " ] determine 确定\n")
+ (position . 2194))
 ("de"
  (filename . "~/Emacs/LifeWithEmacs/Language/Deutsch.org")
  (front-context-string)
- (rear-context-string . "月13日 星期二\n+ [ ] \n")
- (position . 15872))
+ (rear-context-string . "er hinaus 除此之外\n\n")
+ (position . 18714))
 )

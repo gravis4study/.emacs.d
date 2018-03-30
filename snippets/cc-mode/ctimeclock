@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: ctimeclock
+# key: ctime
+# --
+
+#include <time.h>
+
+#ifndef _CLOCK_T_DEFINED
+typedef __darwin_clock_t clock_t;
+#define _CLOCK_T_DEFINED
+
+
+clock_t start, finish;
+start=clock();
+
+finish = clock();
+
+printf("duration:%ld\n", (long)(finish - start));

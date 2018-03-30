@@ -1,4 +1,3 @@
-
 ;; Added by Package.el.  This must come before configurations of
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
@@ -7,7 +6,7 @@
 
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 
-(defconst *spell-check-support-enabled* nil) ;; Enable with t if you prefer
+;;(defconst *spell-check-support-enabled* nil) ;; Enable with t if you prefer
 (defconst *is-a-mac* (eq system-type 'darwin))
 
 ;;----------------------------------------------------------------------------

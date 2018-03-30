@@ -1,0 +1,128 @@
+mo
+mo
+mo
+ls
+mo
+mo
+mo
+mo
+mo
+man fgets
+mo
+mo
+mo
+bc (3494809/408463)
+man read
+man 2 read
+mo
+make
+mo
+declaration of 'struct stat'
+man stat
+man 2 stat
+mo
+ls
+mo
+mo
+mo
+mo
+mo
+mkdir dir
+ls
+mo
+mo
+mo
+mo
+bsn2_uebs
+ls
+cd 3
+mo
+mo
+ls
+mkdir 1
+mkdir 2
+mkdir 3
+ls
+cd 1
+touch piggy.txt
+touch piggy2.txt
+touch piggy3.txt
+cd ..
+cd 2
+mkdir 1
+mkdir 2
+cd ..
+ls
+cd 3
+touch kong
+touch wei
+touch qi
+mo
+cd ..
+ls
+mo
+cmake .
+make
+mo
+mo
+mo
+mo
+mo
+mo
+ls
+cd 1
+ls
+cd ..
+mv 1 dir1
+ls
+cd dir1
+ls
+cd ..
+mo
+ls
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+mo
+cd ..
+mv C++Primer笔记.org CPP知识点.org
+ls
+cd elpa/
+ls
+echo flycheck*
+rm -r flyceck*
+rm -r flycheck*
+echo flycheck*
+cd .emacs.d/

@@ -1,0 +1,12 @@
+alias bsn2_uebs cd ~/HSH/SS18/BSN2/Uebs
+alias l cd ~/Emacs/LifeWithEmacs
+alias study cd ~/Emacs/LifeWithEmacs/Study/
+alias cpp cd ~/Emacs/LifeWithEmacs/Study/C++Primer练习题/Code
+alias pidp /Users/xuexi/Code/personal_ids/PersonalIDS/Persistenz
+alias pid cd ~/Code/personal_ids/PersonalIDS
+alias review java -jar ~/Desktop/Volkabular.jar
+alias linux cd ~/Emacs/LifeWithEmacs/Study
+alias mo make && ./out
+alias ba cd ~/Library/Mobile\ Documents/com~apple~CloudDocs/BachelorArbeit/论文/笔记
+alias lwe cd ~/Emacs/LifeWithEmacs/
+alias psql psql -U postgres

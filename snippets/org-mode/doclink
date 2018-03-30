@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: doclink
+# key: docl
+# --
+[[./论文/$1.pdf]]
